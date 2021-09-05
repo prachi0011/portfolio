@@ -1,0 +1,12 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+
+body{
+    background-image: url();
+}
+#profile{
+    width: 400px;
+    height: 500px;
+    margin: 20vh 30vw;
+    border: 2px solid rgb(37, 37, 184);
+    /* box-sizing: #777777 10px 10px; */
+}
